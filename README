@@ -1,0 +1,12 @@
+Sublime Text 2
+--------------
+
+This is my first attempt at using (Sublime Text 2)[http://www.sublimetext.com/2].
+
+It's definitely worth paying the license.
+
+Install
+-------
+
+  rm -Rf ~/Library/Application\ Support/Sublime\ Text\ 2
+  git clone git://github.com/akitaonrails/MySublimeText2SupportFiles.git ~/Library/Application\ Support/Sublime\ Text\ 2
