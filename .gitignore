@@ -1,3 +1,5 @@
 *.sublime_license
 *.sublime_session
 Packages/User/FileHistory.json
+Backup/*
+*.cache
