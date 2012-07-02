@@ -60,6 +60,14 @@ Contributing
 
 History
 -------
+2012-06-28
+
+* Better handling of file defining a function potentially not existing.
+
+2012-06-26
+
+* Added new_file_syntax so new files can have a syntax applied immediately.
+
 2012-06-20
 
 * Added rule for *.thor (thanks Magnus Rex).
